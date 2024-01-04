@@ -1,5 +1,5 @@
 p.main {
-    color: blue;
+    color: red;
 }
 b.red {
     color: red;
@@ -32,41 +32,44 @@ b.ten {
     color: red;
 }
 b.eleven {
-    color: blue;
+    color: red;
 }
 b.twelve {
-    color: purple;
+    color: red;
 }
 b.thirteen {
-    color: orange;
+    color: red;
 }
 b.fourteen {
-    color: green;
+    color: red;
 }
 b.fifteen {
-    color: blueviolet;
+    color: red;
 }
 b.sixteen {
-    color: aqua;
+    color: red;
 }
 b.seventeen {
-    color: aquamarine;
+    color: red;
 }
 b.eighteen {
-    color: brown;
+    color: red;
 }
 b.nineteen {
-    color: burlywood;
+    color: red;
 }
 b.twenty {
-    color: bisque;
+    color: red;
 }
 b.twentyone {
-    color: chocolate;
+    color: red;
 }
 b.twentytwo {
-    color: cadetblue;
+    color: red;
 }
 b.twentythree {
-    color: crimson;
+    color: red;
+}
+.mainpage {
+    float: left;
 }

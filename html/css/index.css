@@ -28,3 +28,11 @@
  ol {
 	 color: #008000
 }
+nav div {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+nav div {
+	float: left;
+}
